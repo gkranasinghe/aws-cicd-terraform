@@ -1,2 +1,2 @@
 repo_name=cicd-demo
-repo_default_branch=main
+repo_default_branch=master
